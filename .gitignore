@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# incomplete
+
+./demo_components/Reverse-Linked-List
+
